@@ -1,5 +1,8 @@
 # 8086-002-Assignments
-Personal Repository for Assignments
+Personal Repository for Assignments.
+
+I am going to use this repository for future assignments to include Information Seeking and some more files related to the course.
+
 This is the first assignemnt in **Data to Decisions** course and it is all about  _Markdown_.
 Here I have learn the below list of details:
 * Italics
@@ -17,6 +20,8 @@ Here I am making the link for my [License.md](https://github.com/SravaniKV/8086-
 The files in this repository are :
  * License.md
  * Readme.md
+ 
+
 
 
 
