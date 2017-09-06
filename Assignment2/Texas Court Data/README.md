@@ -11,7 +11,7 @@ Municipal_Courts-MUN_Municipal_Court_Activity_ByCity_N_FY15.xls(1671KB- 2318rows
 municipal courties activiyies by city. It provides various details pending,disposed, active,inactive cases for various cities for 2014-2015  
 under the categories of civil/administrative cases and criminal cases. 
 
-** License Information **
+**License Information**
 The MIT License (MIT)
 
 Copyright (c) 2016, Jeremy Singer-Vine / BuzzFeed News
