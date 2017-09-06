@@ -23,6 +23,10 @@ The files in this repository are :
  
 ###Assignment2
 Below are the links for the datsets:
+[ZikaVirus](https://github.com/SravaniKV/8086-002-Assignments/tree/master/Assignment2/ZikaVirus)
+[Texas Court Data](https://github.com/SravaniKV/8086-002-Assignments/tree/master/Assignment2/Texas%20Court%20Data)
+[Airline Safety](https://github.com/SravaniKV/8086-002-Assignments/tree/master/Assignment2/Airline%20Safety)
+
 
 
 
