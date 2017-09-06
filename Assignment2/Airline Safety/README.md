@@ -5,9 +5,7 @@ was we can find, analyze and get to know which all airlines are having good hist
 and also this would decide the people's choice and safety.
 
 
-The data here is airlines-safety.csv which contains 2.21Kb 57 lines with 8 columns. The columns and their definitions are like below:
-**Column**                **Definition**                                                         
-  
+The data here is airlines-safety.csv which contains 2.21Kb 57 lines with 8 columns. The columns and their definitions are like below:                                                     
 airline: 	                  Airline (asterisk indicates that regional subsidiaries are included) 
 avail_seat_km_per_week: 	Available seat kilometers flown every week                            
 incidents_85_99:	          Total number of incidents, 1985–1999                                
