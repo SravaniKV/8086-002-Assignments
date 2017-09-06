@@ -1,7 +1,7 @@
 # Texas Court Data
 
 This repository contains data and analysis regarding criminal cases in Texas municipal courts. The references are from BuzzFeedNews news  
-article _The Ticket machine_(https://www.buzzfeed.com/alexcampbell/the-ticket-machine?utm_term=.suAKMdKXE#.ybvRL9RnB) published on   
+article [_The Ticket machine_](https://www.buzzfeed.com/alexcampbell/the-ticket-machine?utm_term=.suAKMdKXE#.ybvRL9RnB) published on   
 january 26 2016.
 
 The analysis depends on data collected and published by the Texas Office of Court Administration, for fiscal years 2014-2015.   
@@ -34,6 +34,9 @@ The _Potential data users_ of this data could be Texas Police team, Security tea
 The data would also provide the safety regulatory information about different cities of Texas.Ranking of various municipal courts.  
 Crime rate at various cities.
 
+
+_References:_
+B. (2016, January 25). BuzzFeedNews/2016-01-texas-municipal-courts. Retrieved September 06, 2017, from https://github.com/BuzzFeedNews/2016-01-texas-municipal-courts
 
 
 
