@@ -3,7 +3,7 @@
 This repository contains data and analysis regarding criminal cases in Texas municipal courts. The references are from BuzzFeedNews   news article [_The Ticket machine_](https://www.buzzfeed.com/alexcampbell/the-ticket-machine?utm_term=.suAKMdKXE#.ybvRL9RnB) published on january 26 2016.
 
 The analysis depends on data collected and published by the Texas Office of Court Administration, for fiscal years 2014-2015.   
-This analysis uses two fields in particular: 1) the number of criminal cases disposed, and 2) the number of cases where fines were  
+This analysis uses two fields in particular: 1) the number of criminal cases disposed, and 2) the number of cases where fines were    
 satisfied by jail time.
 
 Here the data is present in two files Municipal_Courts-MUN_Municipal_Court_Add_Activity_ByCity_N_FY15.xls(837 KB - 3569rows) and     
