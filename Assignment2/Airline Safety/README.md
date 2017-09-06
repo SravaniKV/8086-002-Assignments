@@ -6,17 +6,17 @@ and also this would decide the people's choice and safety.
 
 
 The data here is airlines-safety.csv which contains 2.21Kb 57 lines with 8 columns. The columns and their definitions are like below:
-**Column**             **Definition**
-airline	                Airline (asterisk indicates that regional subsidiaries are included)
-avail_seat_km_per_week	Available seat kilometers flown every week
-incidents_85_99	        Total number of incidents, 1985–1999
-fatal_accidents_85_99	  Total number of fatal accidents, 1985–1999
-fatalities_85_99	      Total number of fatalities, 1985–1999
-incidents_00_14	        Total number of incidents, 2000–2014
-fatal_accidents_00_14	  Total number of fatal accidents, 2000–2014
-fatalities_00_14	      Total number of fatalities, 2000–2014
+|**Column**            |: **Definition**                                                        |
+|airline	             |:   Airline (asterisk indicates that regional subsidiaries are included)|
+|avail_seat_km_per_week|:	Available seat kilometers flown every week                            |
+|incidents_85_99	     |:   Total number of incidents, 1985–1999                                |
+|fatal_accidents_85_99 |:	  Total number of fatal accidents, 1985–1999                          |  
+|fatalities_85_99	     |: Total number of fatalities, 1985–1999                                 |
+|incidents_00_14	     |:    Total number of incidents, 2000–2014                               |
+|fatal_accidents_00_14 |:	  Total number of fatal accidents, 2000–2014                          |
+|fatalities_00_14	     |: Total number of fatalities, 2000–2014                                 |
 
-** License Information: **
+**License Information:**
 Copyright (c) 2014 ESPN Internet Ventures
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files  
