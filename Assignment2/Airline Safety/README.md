@@ -33,4 +33,9 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 The _Potential data users_ for this data could be people, officials who check the air line safety norms, and the airlines them selves 
 has to use this data to make some active decisions in improving the safety.
 
+References:
+F. (2015, April 08). Fivethirtyeight/data. Retrieved September 06, 2017, from  https://github.com/fivethirtyeight/data/tree/master/airline-safety
+
+Source: [Aviation Safety](https://aviation-safety.net/)
+
 
