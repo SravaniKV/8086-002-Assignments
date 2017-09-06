@@ -1,7 +1,7 @@
 # AirLine Safety
 
 The raw data here provides information about the plane crashes for various airlines. The interesting thing about this data  
-was we can find, analyze and get to know which all airlines are having good history and what all airlines neeeds to be improved  
+was we can find, analyze and get to know which all airlines are having good history and what all airlines neeeds to be improved
 and also this would decide the people's choice and safety.
 
 
