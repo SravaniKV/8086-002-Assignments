@@ -1,13 +1,14 @@
 # Zika Virus  
 This folder contains data related to the Zika Virus during the 2015-2016 years. I have placed the Global data.   
-The Pan American Health Organization / World Health Organization is publishing weekly counts of suspected and confirmed cases,  
+The Pan American Health Organization / World Health Organization is publishing weekly counts of suspected and confirmed cases, 
 by country and territory, as reported by each country. 
 
 * "The suspected cases in Brazil are unofficial (media monitoring)"
 * "Data is shared in an effort to transparently disseminate available information reported by Member States. Any subsequent interpretation and analysis of this data should consider differences in surveillance systems and reporting requirements."
 
+The main reason for picking this data set is that it is providing clear information on what are countries are majorly effected by the virus.
 
-This mainly consists of raw files, _paho-who-cases-reported-2016-02-24.tsv_ ,_paho-who-cases-reported-2016-03-02.csv_ . The file contains 1218(88.2KB) data  
+This mainly consists of raw files, _paho-who-cases-reported-2016-02-24.tsv_ ,_paho-who-cases-reported-2016-03-02.csv_ . The file contains 1218(88.2KB) data 
 and the headers would be like country/territory , Measure Names, Month of Date REport Epi week , Year of date , Measure Value .
 
 **License Information:**
