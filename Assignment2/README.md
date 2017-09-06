@@ -10,7 +10,7 @@ by country and territory, as reported by each country.
 This mainly consists of raw files, _paho-who-cases-reported-2016-02-24.tsv_ ,_paho-who-cases-reported-2016-03-02.csv_ . The file contains 1218(88.2KB) data  
 and the headers would be like country/territory , Measure Names, Month of Date REport Epi week , Year of date , Measure Value .
 
-## License Information:
+**License Information:**
 The MIT License (MIT)
 
 Copyright (c) 2016, Jeremy Singer-Vine / BuzzFeed News
@@ -33,11 +33,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The **Potential data users** for this data would be usual for travel warnings, scientist research and in preventions in  
+The _Potential data users_ for this data would be usual for travel warnings, scientist research and in preventions in  
 futures based on the cases from different regions.
 
-**Questions that might help answering** are the immediate measures and warnings that can be taken when such out break occures.  
+_Questions that might help answering_ are the immediate measures and warnings that can be taken when such out break occures.  
 To conduct research work based on the cases.
+
+References:
+BuzzFeedNews. “BuzzFeedNews/Zika-Data.” GitHub, 1 Sept. 2017, github.com/BuzzFeedNews/zika-data.
 
 
 
