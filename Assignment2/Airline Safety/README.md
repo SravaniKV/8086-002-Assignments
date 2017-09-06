@@ -13,7 +13,9 @@ fatal_accidents_85_99:  	  Total number of fatal accidents, 1985–1999
 fatalities_85_99:	      Total number of fatalities, 1985–1999                                 
 incidents_00_14:	           Total number of incidents, 2000–2014                               
 fatal_accidents_00_14:   	  Total number of fatal accidents, 2000–2014                          
-fatalities_00_14:	        Total number of fatalities, 2000–2014                                 
+fatalities_00_14:	        Total number of fatalities, 2000–2014   
+
+This data was interesting because  we all frequently use the airline I thought that working on the crash cases and knowing them better would give better idea in picking my itenary in future.
 
 **License Information:**
 Copyright (c) 2014 ESPN Internet Ventures
