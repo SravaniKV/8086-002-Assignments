@@ -6,9 +6,9 @@ The analysis depends on data collected and published by the Texas Office of Cour
 This analysis uses two fields in particular: 1) the number of criminal cases disposed, and 2) the number of cases where fines were  
 satisfied by jail time.
 
-Here the data is present in two files Municipal_Courts-MUN_Municipal_Court_Add_Activity_ByCity_N_FY15.xls(837 KB - 3569rows) and   
-Municipal_Courts-MUN_Municipal_Court_Activity_ByCity_N_FY15.xls(1671KB- 2318rows) These files provides the activities and additional activities of  
-municipal courties activiyies by city. It provides various details pending,disposed, active,inactive cases for various cities for 2014-2015  
+Here the data is present in two files Municipal_Courts-MUN_Municipal_Court_Add_Activity_ByCity_N_FY15.xls(837 KB - 3569rows) and     
+Municipal_Courts-MUN_Municipal_Court_Activity_ByCity_N_FY15.xls(1671KB- 2318rows) These files provides the activities and additional   activities of    
+municipal courties activiyies by city. It provides various details pending,disposed, active,inactive cases for various cities for 2014-2015   
 under the categories of civil/administrative cases and criminal cases. 
 
 **License Information**
