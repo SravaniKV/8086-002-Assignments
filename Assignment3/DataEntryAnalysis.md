@@ -16,6 +16,7 @@ so it is not possible to investigate on day and night distribution samples of sp
 8. The column definitions are abbrevated and thy are not explained anywhere, So it leads to multiple assumptions and mis interpretations of the data.
 9. The pond2010.xlsx contains the data of 2010 where as the other files has the data collected in 2011, though the study was conducted over several years, i think there should be some additional information provided in order to integrate the different years file and make the analysis.
 10. The files are having the  same  column data so they can also be combined into same file.
+11. There are formulas for some cells in the excels but not for all others. For example zoo-temp main.xlsx has formulas for chippo#/L column of data colleted on 6/7/11 and not for 6/4/11. Needs some more info on this for better analysis.
 
 # Task2 - Solutions for the Issues identified in Task 1
 Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #task1. 
@@ -28,13 +29,16 @@ Suggest a new system for organization. Create a table in your Markdown document 
 6. There should be clear details provided for the rows that are in different colours to make the maximum usage of data and to proceed with  analysis.
 7. The x and y axis should be given proper naming in order to get the quick and easy information from the files.
 8. Proper naming of the columns is necessary inorder to reduce confusions.
-9. There should be a column for additional information provided as the data collected was in different years and this could help in corelating the files and heps in analyzing.
+9. There should be a column/sheet for additional information provided as the data collected was in different years and this could help in corelating the files and heps in analyzing.
 10. There are 2 different files for data collected at station A and Station B, they both can be combined and placed in same excel and an additional column can be added showing the different station names.
+11. The formulas for the cells needs to be consistent or needs to be explained or provided info in the excels.
+
 
 ## Below can be the format of the excel:
 
-| Date  | Time (EST) | Temperature (C/F) | Density (lts) | Colony Diameter(mts) | Species | Diameter () |
-  -----
+| Date | Time(EST) | Temperature (C/F) | Density (liters) | Colony Diameter(meters) | Species | ColonyDiameter (meters) | Depth (meters) | Cuni #/L | Cuni ColonySize (meters) | Chippo #/L | Chippo ColonySize (meters) | Chla | Station  (location) | Additional Information |
+|------|-----------|-------------------|------------------|-------------------------|---------|-------------------------|----------------|----------|--------------------------|------------|----------------------------|------|---------------------|------------------------|
+
 
 
 
