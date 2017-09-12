@@ -8,17 +8,33 @@ rotifers stick together in colonies. The investigators plan to repeat this study
 see yellow notebook for map and details".But, there is no yellow notbook for map and details.  
 2. The units of measurements of the columns in the files are not provided.Like temperature not sure if it is C/F.
 3. There is no details about the time at which the data was collected. There are only details of the date on which they were collected and 
-so it is not possible to investigate on day and night distribution samples of specimen.
+so it is not possible to investigate on day and night distribution samples of specimen which was mentioned in the assignment scenario.
 4. Not all columns are defined. For example in the file Pond2010.xlsx there is a column name 'z' , but no info was provided about that.
 5. Some of the data in files are -ve values like, in the file zoop- temp.xlsx there are cells with -ve values in the column Chippo #/L.
-6. Some of the rows in the file are in different colour like red, but no information was given why they were different from other rows.
+6. Some of the rows in the file are in different colour like red/orange, but no information was given why they were different from other rows.
 7. The graphs provided in the files doesnt have the y-axis and x-axis defined , but when we click on the graph the corresponidng columns are getting highlighted in the excel.
 8. The column definitions are abbrevated and thy are not explained anywhere, So it leads to multiple assumptions and mis interpretations of the data.
 9. The pond2010.xlsx contains the data of 2010 where as the other files has the data collected in 2011, though the study was conducted over several years, i think there should be some additional information provided in order to integrate the different years file and make the analysis.
+10. The files are having the  same  column data so they can also be combined into same file.
 
 # Task2 - Solutions for the Issues identified in Task 1
 Suggest a new system for organization. Create a table in your Markdown document showing a potential template for later years of data collection that would address the problems you identified in #task1. 
 
 1. Provide the information on yellow notes and also the links for the maps and details.
 2. Units of measurements for the columns can  be included along with the column names in the excel files.
-3. There can be column 
+3. There can be additional column with sample collection time details along with the date details.
+4. There can be an additional sheet or clear naming of the columns can be done in the same excel. Which gives better meaning of the columns and the collected data.
+5. The -ve values can be rectifiled/rechecked in the excel and needs to be given a thought if the column can really have -ve values.
+6. There should be clear details provided for the rows that are in different colours to make the maximum usage of data and to proceed with  analysis.
+7. The x and y axis should be given proper naming in order to get the quick and easy information from the files.
+8. Proper naming of the columns is necessary inorder to reduce confusions.
+9. There should be a column for additional information provided as the data collected was in different years and this could help in corelating the files and heps in analyzing.
+10. There are 2 different files for data collected at station A and Station B, they both can be combined and placed in same excel and an additional column can be added showing the different station names.
+
+## Below can be the format of the excel:
+
+
+
+
+
+
