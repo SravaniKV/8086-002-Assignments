@@ -33,6 +33,8 @@ Suggest a new system for organization. Create a table in your Markdown document 
 
 ## Below can be the format of the excel:
 
+| Date  | Time (EST) | Temperature (C/F) | Density (lts) | Colony Diameter(mts) | Species | Diameter () |
+  -----
 
 
 
