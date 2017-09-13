@@ -39,7 +39,7 @@ Suggest a new system for organization. Create a table in your Markdown document 
 11. The formulas for the cells needs to be consistent or needs to be explained or provided info in the excels.
 
 
-## Below can be the 2 different format of the excel:
+## Below can be the 2 different format of the tables:
 1.
 
 | Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Cuni #/L | Chippo #/L | Chla | Station  (location) | Additional Information |
