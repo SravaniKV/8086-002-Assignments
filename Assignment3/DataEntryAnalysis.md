@@ -42,12 +42,12 @@ Suggest a new system for organization. Create a table in your Markdown document 
 ## Below can be the 2 different format of the tables:
 1.
 
-| Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Cuni #/L | Chippo #/L | Chla | Station  (location) | Additional Information |
+| Date(MM/DD/YY) | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Cuni #/L | Chippo #/L | Chla | Station  (location) | Additional Information |
 |------|-----------|-------------------|------------------|-------------------------|---------|-------------------------|----------------|----------|--------------------------|------------|----------------------------|
 
 2.
 
-| Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Species #/L | Chla | Station  (location) | Additional Information |
+| Date(MM/DD/YY) | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Species #/L | Chla | Station  (location) | Additional Information |
 |------|-----------|-------------------|------------------|-------------------------|---------|-------------------------|----------------|----------|--------------------------|------------|
 
 
