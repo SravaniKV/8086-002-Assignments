@@ -11,7 +11,7 @@ The type of zooplankton they studied is called rotifers generally, and specifica
 rotifers stick together in colonies. The investigators plan to repeat this study for several more years.
 
 # Task 1 -Issues identified:
-1.  In zoop -temp.xlsx file which shows the data from station B has the comment line "Station B is in a shallower southern arm of the lake,see yellow notebook for map and details".But, there is no yellow notbook for map and details.  
+1.  In zoop -temp.xlsx file which shows the data from station B has the comment line "Station B is in a shallower southern arm of the lake,see yellow notebook for map and details".But, there is no yellow notebook for map and details.  
 2. The units of measurements of the columns in the files are not provided.Example temperature not sure if it is C/F.
 3. There is no details about the time at which the data was collected. There are only details of the date on which they were collected and so it is not possible to investigate on day and night distribution samples of specimen which was mentioned in the assignment scenario.
 4. Not all columns are defined. For example in the file Pond2010.xlsx there is a column name 'z' , but no info was provided about that.
@@ -34,7 +34,7 @@ Suggest a new system for organization. Create a table in your Markdown document 
 6. There should be clear details provided for the rows that are in different colours to make the maximum usage of data and to proceed with  analysis.
 7. The x and y axis should be given proper naming in order to get the quick and easy information from the files.
 8. Proper naming of the columns is necessary inorder to reduce confusions.
-9. There should be a column/sheet for additional information provided as the data collected was in different years and this could help in corelating the files and heps in analyzing.
+9. There should be a column/sheet for additional information provided as the data collected was in different years and this could help in corelating the files and hepls in analyzing.
 10. The data in the files can be combined and placed in same excel and an additional column can be added showing the different station names.
 11. The formulas for the cells needs to be consistent or needs to be explained or provided info in the excels.
 
@@ -42,12 +42,12 @@ Suggest a new system for organization. Create a table in your Markdown document 
 ## Below can be the 2 different format of the excel:
 1.
 
-| Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species | Depth (millimeters) | Cuni #/L | Chippo #/L | Chla | Station  (location) | Additional Information |
+| Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Cuni #/L | Chippo #/L | Chla | Station  (location) | Additional Information |
 |------|-----------|-------------------|------------------|-------------------------|---------|-------------------------|----------------|----------|--------------------------|------------|----------------------------|
 
 2.
 
-| Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species | Depth (millimeters) | Species #/L | Chla | Station  (location) | Additional Information |
+| Date | Time(EST) | Temperature (Celsius/Fahrenheit) | Density (liters) | Species Colony Diameter(meters) | Species name | Depth (millimeters) | Species #/L | Chla | Station  (location) | Additional Information |
 |------|-----------|-------------------|------------------|-------------------------|---------|-------------------------|----------------|----------|--------------------------|------------|
 
 
