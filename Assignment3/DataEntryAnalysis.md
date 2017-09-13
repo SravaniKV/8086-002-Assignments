@@ -1,3 +1,10 @@
+# DateEntryAnalysis.md:
+This document is related to assignment3 and contains Issues and possible resolutions for the files provided.
+# List of files:
+[Pond2010]()
+[zooptemp]()
+[zoomtemp-main]()
+
 # Description:
 In this assignmnet we were provided with the datasets(3 files) providing the study of 2 species of zooplankton across multiple years.
 The type of zooplankton they studied is called rotifers generally, and specifically the genus Conochilus, in which groups of individual
