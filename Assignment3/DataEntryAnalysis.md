@@ -1,9 +1,9 @@
 # DateEntryAnalysis.md:
 This document is related to assignment3 and contains Issues and possible resolutions for the files provided.
-# List of files:
+# List of files provided:
 [Pond2010](https://github.com/SravaniKV/8086-002-Assignments/blob/master/Assignment3/pond2010.xlsx)  
-[zooptemp]()
-[zoomtemp-main]()
+[zooptemp](https://github.com/SravaniKV/8086-002-Assignments/blob/master/Assignment3/zoop%20-%20temp.xlsx)  
+[zoomtemp-main](https://github.com/SravaniKV/8086-002-Assignments/blob/master/Assignment3/zoop%20-%20temp-main.xlsx)
 
 # Description:
 In this assignmnet we were provided with the datasets(3 files) providing the study of 2 species of zooplankton across multiple years.
